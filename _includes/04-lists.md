@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+- Movies
+  - Blade Runner
+  - Watchmen
+  - Vanilla Sky
+- Bands
+  - Atreyu
+  - Papa Roach
+  - SolarFields
