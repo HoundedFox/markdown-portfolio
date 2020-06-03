@@ -3,3 +3,4 @@ _HTML_,
 _JavaScript_, 
 __Python 2.7__, 
 __Django 1.0__
+__Learning Ionic _React_ currently__
